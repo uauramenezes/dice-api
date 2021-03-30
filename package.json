@@ -1,0 +1,24 @@
+{
+  "name": "dice-api",
+  "version": "1.0.0",
+  "description": "Just a silly API that returns a random dice number",
+  "main": "index.ts",
+  "engines": {
+    "node": "15.11.0",
+    "npm": "7.6.3"
+  },
+  "scripts": {
+    "dev": "tsnd --transpile-only --respawn ./index.ts",
+    "start": "tsnd --transpile-only ./index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
+}
