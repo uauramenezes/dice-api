@@ -2,7 +2,7 @@
 Just a silly API to simulate a dice roll.
 
 ## Usage
-To use it, make a GET request with the number of sides as endpoint in the URL.
+To use it, make a GET request with the number of sides in the URL.
 
 Example: `http://localhost:5555/d4`
 
