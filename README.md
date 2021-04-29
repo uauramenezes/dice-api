@@ -18,4 +18,4 @@ It can be used to simulate multiple dices:
 The objective was to build a simple API using nothing but Node.js, no Express or other framework.
 
 # Setup
-Simply clone the repository, navigate to the folder, install the dependecies with `npm install` or `yarn install` and acces it with an API client (Insomnia, Postman) on `http://localhost:5555/:dice`
+Simply clone the repository, navigate to the folder, install the dependecies with `npm install` and acces it with an API client (Insomnia, Postman) on `http://localhost:5555/:dice`
